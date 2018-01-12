@@ -8,3 +8,10 @@
 
 -------------------------------------------------------------------------------*/
 
+#include "helloworld.cpp"
+
+int main(){
+    helloWorld();
+    system(pause);
+    return 0;
+}
